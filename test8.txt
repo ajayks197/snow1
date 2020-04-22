@@ -1,0 +1,19 @@
+application_name: LDAP
+owner: Abraham Lincoln
+dev_user_name: asdasd
+dev_password: **********
+dev_host: werw
+dev_port: 23
+dev_page_size: 4
+type_of_access: Access Request
+level_of_approvals: One level
+manager: true
+application_owner: false
+user: true
+manager_email: false
+requester: false
+application_owner_email: false
+search_scope: choice1
+search_dn: sdfsdf
+correlation_id: Email ID
+password_change_at_next_log_on_required: Yes
