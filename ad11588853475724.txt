@@ -1,0 +1,15 @@
+{ 
+"application_name ": "AD1", 
+"Roles":[ {
+  "role" : "Role1",
+  "groups_for_the_role" : "g1,g2,g3",
+  "approvers" : "manager"
+}, {
+  "role" : "Role2",
+  "groups_for_the_role" : "g1,g4",
+  "approvers" : "application_owner"
+}, {
+  "role" : "Role3",
+  "groups_for_the_role" : "G3,g5",
+  "approvers" : "manager_and_application_owner"
+} ]}
