@@ -1,5 +1,5 @@
 { 
-"application_name ": "LDAP", 
+"appldvdvication_name ": "LDAP", 
 "owner ": "Andrew Och", 
 "dev_user_name ": "testUser", 
 "dev_password ": "asdfghjkl", 
