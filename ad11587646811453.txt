@@ -1,4 +1,5 @@
-{"application_name ": "AD1", 
+{
+"application_name ": "AD1", 
 "owner ": "Abel Tuter", 
 "description ": "sdf", 
 "dev_user_name ": "asdasd", 
