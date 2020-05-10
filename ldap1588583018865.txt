@@ -22,5 +22,6 @@
 "search_scope ": "choice1", 
 "search_dn ": "DN", 
 "correlation_id ": "Email ID", 
-"password_change_at_next_log_on_required ": "Yes", 
+"password_change_at_n
+ext_log_on_required ": "Yes", 
 }
