@@ -3,7 +3,7 @@
 "owner ": "Andrew Och", 
 "dev_user_name ": "testUser", 
 "dev_password ": "asdfghjkl", 
-"dev_host ": "10.1.1.1", 
+"dev_host ": "10y.1.1.1", 
 "dev_port ": "80", 
 "dev_page_size ": "100", 
 "quality_user_name ": "testUser", 
