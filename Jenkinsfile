@@ -1,18 +1,13 @@
+import hudson.model.*
 pipeline {
     agent any
 
-    stages {
-        stage('Build') {
-            steps {
-                echo 'Building.1.'
-                pipeline {
-    agent any
 
     stages {
         stage('Build') {
             steps {
                 echo 'Building1..'
-				import hudson.model.*
+				
 
 def payloadString = build.buildVariableResolver.resolve("payload")
 
@@ -36,17 +31,4 @@ build.addAction(new ParametersAction(new StringParameterValue('targetCommit', ta
     }
 }
 
-            }
-        }
-        stage('Test') {
-            steps {
-                echo 'Testing..'
-            }
-        }
-        stage('Deploy') {
-            steps {
-                echo 'Deploying....'
-            }
-        }
-    }
-}
+
