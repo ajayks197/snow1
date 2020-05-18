@@ -1,0 +1,12 @@
+{ 
+"application_name ": "AD1", 
+" Request Number " : "REQ0010067",
+" Application Type " : "AD Applications",
+"Roles":[ {
+  "role" : "ssdf",
+  "groups_for_the_role" : "sdf,sdf,sdf",
+  "approvers" : "manager",
+  "role_description" : "dfsf",
+  "extended_attributes" : "dfsdfsf",
+  "role_owner" : "abel.tuter"
+} ]}
