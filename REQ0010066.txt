@@ -1,0 +1,12 @@
+{ 
+"application_name ": "AD1", 
+" Request Number " : "REQ0010066",
+" Application Type " : "AD Applications",
+"Roles":[ {
+  "role" : "Role1",
+  "groups_for_the_role" : "g1,g2,g3",
+  "approvers" : "manager",
+  "role_description" : "sadfgghjklmnbvcxz",
+  "extended_attributes" : "none",
+  "role_owner" : "willard.roughen"
+} ]}
