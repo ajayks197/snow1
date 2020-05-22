@@ -1,0 +1,14 @@
+{ 
+"meta" : {
+"CRSysId" :"175945fb2fb010105c422f2ef699b637",
+"Request Number" : "REQ0010069",
+"Application Type" : "AD Applications"
+}, 
+"application_name": "AD1", 
+"Roles":[ {
+  "role" : "awdawd",
+  "groups_for_the_role" : "wdwdawdawd",
+  "approvers" : "manager",
+  "role_description" : "awdawdawd",
+  "role_owner" : "abel.tuter"
+} ]}
