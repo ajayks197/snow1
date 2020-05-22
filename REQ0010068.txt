@@ -1,0 +1,19 @@
+{ 
+"meta" : {
+"CRSysId" :"9e8741bb2fb010105c422f2ef699b680",
+" Request Number " : "REQ0010068",
+" Application Type " : "AD Applications"
+}"application_name ": "AD1", 
+"Roles":[ {
+  "role" : "ROleq",
+  "groups_for_the_role" : "ssdf,sdf,h,g,",
+  "approvers" : "manager",
+  "role_description" : "sefsfsef",
+  "role_owner" : "abel.tuter"
+}, {
+  "role" : "efesf",
+  "groups_for_the_role" : "hjhjkh,hjkhj,hjk",
+  "approvers" : "manager",
+  "role_description" : "asdffg",
+  "role_owner" : "abel.tuter"
+} ]}
