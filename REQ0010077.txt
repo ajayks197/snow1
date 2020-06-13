@@ -1,0 +1,14 @@
+{ 
+"meta" : {
+"CRSysId" :"fe9c4f722f5114105c422f2ef699b64e",
+"Request Number" : "REQ0010077",
+"Application Type" : "AD Applications"
+}, 
+"application_name": "Active Directory", 
+"Roles":[ {
+  "role" : "VPN IT Role5",
+  "groups_for_the_role" : "\"cn=VPN,ou=groups,dc=training,dc=tcs,dc=com\"",
+  "approvers" : "manager",
+  "role_description" : "test",
+  "role_owner" : "abel.tuter"
+} ]}
