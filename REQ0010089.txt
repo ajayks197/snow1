@@ -1,0 +1,14 @@
+{ 
+"meta" : {
+"CRSysId" :"9e093eb32f9510105c422f2ef699b671",
+"Request Number" : "REQ0010089",
+"Application Type" : "AD Applications"
+}, 
+"application_name": "LDAP", 
+"Roles":[ {
+  "role" : "Manager group",
+  "groups_for_the_role" : "\"cn=Managers,ou=groups,dc=training,dc=tcs,dc=com\"",
+  "approvers" : "manager",
+  "role_description" : "Testing",
+  "role_owner" : "abel.tuter"
+} ]}
