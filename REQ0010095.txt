@@ -1,0 +1,14 @@
+{ 
+"meta" : {
+"CRSysId" :"78c3b7bf2f1910105c422f2ef699b695",
+"Request Number" : "REQ0010095",
+"Application Type" : "AD Applications"
+}, 
+"application_name": "LDAP", 
+"Roles":[ {
+  "role" : "VPN IT Role",
+  "groups_for_the_role" : "\"cn=VPN,ou=groups,dc=training,dc=tcs,dc=com\"",
+  "approvers" : "manager",
+  "role_description" : "IT ROle for VPN Group",
+  "role_owner" : "abel.tuter"
+} ]}
