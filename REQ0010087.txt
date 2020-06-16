@@ -1,0 +1,14 @@
+{ 
+"meta" : {
+"CRSysId" :"2f90a9fb2f9110105c422f2ef699b69e",
+"Request Number" : "REQ0010087",
+"Application Type" : "AD Applications"
+}, 
+"application_name": "Active Directory", 
+"Roles":[ {
+  "role" : "testt",
+  "groups_for_the_role" : "\"cn=Managers,ou=groups,dc=training,dc=tcs,dc=com\",\"cn=Users,ou=groups,dc=training,dc=tcs,dc=com\"",
+  "approvers" : "manager",
+  "role_description" : "asd",
+  "role_owner" : "abel.tuter"
+} ]}
