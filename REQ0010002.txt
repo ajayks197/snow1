@@ -1,0 +1,17 @@
+{ 
+"meta" : {
+"CRSysId" :"4796ee7c2f0310104fd851172799b601",
+"Request Number" : "REQ0010002",
+"Application Type" : "CyberArc"
+}, 
+"safe_name": "abc", 
+"safe_description": "desc", 
+"safe_admins": "Abraham Lincoln, Alejandra Prenatt", 
+"safe_support_admins": "Adela Cervantsz, Allan Schwantd", 
+"Roles":[ {
+  "role" : "pq",
+  "groups_for_the_role" : "group1",
+  "approvers" : "Manager",
+  "role_description" : "desc",
+  "role_owner" : "abel.tuter"
+} ]}
